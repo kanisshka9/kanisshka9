@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on innovative location-based solutions 📍.
+My current projects are mostly related to geocoding of places
 <!--
 **kanisshka9/kanisshka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
